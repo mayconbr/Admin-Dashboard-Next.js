@@ -1,6 +1,4 @@
-Aqui está um exemplo de README.md para o seu projeto:
-
-Biblioteca Dashboard Universitário
+Dashboard parq Biblioteca Universitária
 
 Este é um projeto de um Dashboard Administrativo desenvolvido com o framework Next.js para gerenciar a biblioteca de uma universidade. O objetivo do projeto é facilitar o gerenciamento de livros, alunos, empréstimos, devoluções e relatórios administrativos.
 
